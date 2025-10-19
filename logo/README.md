@@ -1,0 +1,1 @@
+# ECNOVA logo folder
