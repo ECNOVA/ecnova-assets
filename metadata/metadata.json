@@ -1,0 +1,11 @@
+{
+  "name": "Ecnova",
+  "symbol": "ECNOVA",
+  "description": "Engine of the New Economy. Energy DAO • Solana Network • Powered by Energy.",
+  "image": "https://raw.githubusercontent.com/ECNOVA/ecnova-assets/main/logo/ECNOVA_logo_512.png",
+  "extensions": {
+    "website": "https://ecnova.io",
+    "twitter": "https://x.com/EcnovaDAO",
+    "telegram": "https://t.me/ecnova"
+  }
+}
